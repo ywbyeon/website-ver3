@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://ywbyeon.github.io/website_ver3//sitemap.xml
+Sitemap: https://ywbyeon.github.io/sitemap.xml
