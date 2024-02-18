@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <i>Pioneer in Material Sciences with an expertise on Electron Microscopy</i><br>Senior Research Scientist @ <a href="https://aac.kist.re.kr">AADC</a>,&emsp;<a href="https://www.kist.re.kr">Korea Institute of Science and Technology (KIST)</a>
+subtitle: Senior Research Scientist @ <a href="https://aac.kist.re.kr">AADC</a>,&emsp;<a href="https://www.kist.re.kr">Korea Institute of Science and Technology (KIST)</a>
 
 profile:
   align: right
